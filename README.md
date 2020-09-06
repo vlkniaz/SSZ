@@ -1,4 +1,4 @@
-# SSZ
+# Image-to-Voxel Model Translation for 3D Scene Reconstruction and Segmentation
 # NOTE: We are preparing the final code for release on GitHub. It will be published by September 20.
 ```Code for the paper: Image-to-Voxel Model Translation for 3D Scene Reconstruction and Segmentation```
 This is the PyTorch implementation of the color-to-voxel model translation presented on ECCV 2018.
